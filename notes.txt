@@ -1,0 +1,55 @@
+Project Members: 
+1. Muhammad Harib Saghir Chaudhry - 221427422
+2. Ali Khan - 221060439
+3. Muhammad Zohair Arif - 221757505
+
+Team Contributions for the Project Implementation
+
+Harib:
+
+Harib played a pivotal role in setting up the foundation of the project by designing and implementing the login interface.
+
+Login Interface:
+Designed the user interface for the login page, ensuring a smooth user experience and logical flow for user authentication.
+Developed the code for handling user inputs, validations (e.g., username and password requirements), and possible error handling for incorrect login attempts.
+
+Tic-Tac-Toe Game:
+Implemented the full functionality of the Tic-Tac-Toe game, including dark/light mode, player input logic, game rules, win/loss/draw conditions, and an intuitive interface for interaction.
+Ensured the game's code was seamlessly integrated with the overall project structure, allowing smooth transition between the login system and game access.
+Developed the algorithm to evaluate the outcomes by comparing the player’s choice (rock, paper, or scissors) with the computer-generated choice. The logic ensured accurate results based on the traditional game rules:
+
+
+Ali:
+
+Ali contributed significantly to the project by developing the Rock-Paper-Scissors game and introducing dynamic interactions using an external API.
+
+Rock-Paper-Scissors Game:
+Designed and implemented the rock paper scissors game's interface and core logic for determining outcomes based on player input versus computer-generated choices.
+Enhanced the game experience by connecting it to an external API, which may have been used for generating randomized outcomes or providing statistical insights (e.g., global win rates or trends).
+Focused on seamless integration of the API with the game logic, ensuring real-time data retrieval and smooth operation within the application.
+
+
+Zohair:
+
+Zohair contributed by creating the Memory Match game, adding a challenging and interactive component to the project.
+
+Memory Match Game:
+Designed the game interface, focusing on user engagement through appealing visuals and intuitive gameplay.
+Developed the code for the game's mechanics, including card flipping, matching logic, and scoring system.
+Worked on efficient algorithms to handle the game's performance, ensuring a responsive and smooth experience for users even as complexity increased.
+Integrated the game into the overall application, maintaining consistency with the other components.
+
+
+Summary
+
+Each team member demonstrated their expertise and teamwork by taking ownership of specific components of the project. Harib laid the groundwork with the login system and contributed with Tic-Tac-Toe, Ali introduced interactive gaming through the Rock-Paper-Scissors API integration, and Zohair enhanced the project with the engaging Memory Match game. Together, these contributions created a cohesive and fully functional application.
+
+
+Post Credit: 
+
+Key ideas: Monam - 220223459
+Video recorded: Nick - 221453063
+Flash lights: Nadia - 221568043
+
+
+Note: Rock paper scissors works only with API.
