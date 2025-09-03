@@ -17,6 +17,7 @@
 - **Team Project:** Built collaboratively by a three-person team  
 
 ## Setup & Installation ⚡
+(only rps requres api start, other 2 are client side, simply open page.html and play)
 1. Clone the repository:  
    ```bash
    git clone https://github.com/M-harib/HAZ-GAME-HUB.git
